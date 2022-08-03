@@ -1,6 +1,6 @@
 # We Plants
 
-We Plants dibuat sebagai bahan dalam mengimplementasikan penggunaan Bootstrap untuk memenuhi tugas mata kuliah Praktikum Pemrograman Web 1. Program ini dibuat menggunakan bahasa pemrograman **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)**, dan **Bootstrap 5**
+We Plants dibuat sebagai bahan dalam mengimplementasikan desain web dan penggunaan Bootstrap. Program ini dibuat menggunakan bahasa pemrograman **HTML (Hypertext Markup Language)**, **CSS (Cascading Style Sheet)**, dan **Bootstrap 5**
 
 ## Structure
 
